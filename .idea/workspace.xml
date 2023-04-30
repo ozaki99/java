@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28b99434-ff56-4e8f-b199-2883e021859a" name="Changes" comment="değişiklik">
-      <change afterPath="$PROJECT_DIR$/src/VergiHesap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="28b99434-ff56-4e8f-b199-2883e021859a" name="Changes" comment="&quot;dosyalar eklendi&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682845780796</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;dosyalar eklendi&quot;">
+      <created>1682851387251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682851387251</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +192,7 @@
     <MESSAGE value="Ortalama Hesaplama" />
     <MESSAGE value="Eklenenler" />
     <MESSAGE value="değişiklik" />
-    <option name="LAST_COMMIT_MESSAGE" value="değişiklik" />
+    <MESSAGE value="&quot;dosyalar eklendi&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;dosyalar eklendi&quot;" />
   </component>
 </project>

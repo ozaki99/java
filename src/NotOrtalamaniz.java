@@ -28,10 +28,8 @@ public class NotOrtalamaniz {
         System.out.print("SQL notunuz: ");
         sql = tus.nextInt();
 
-
         int toplam = (java + html + css + python + php + sql);
         double sonuc = toplam / 6.0;
-
 
         System.out.println("Ortalamanız: " + sonuc);
 

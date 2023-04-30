@@ -34,6 +34,7 @@ public class NotOrtalamaniz {
         System.out.println("Ortalamanız: " + sonuc);
 
 
+
         String str = (sonuc > 50) ? "Sınıfı Geçtiniz" : "Sınıfta Kaldınız";
         System.out.println(str);
     }
